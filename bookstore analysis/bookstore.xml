@@ -1,0 +1,783 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <LastSaved>2022-09-01T13:24:51Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>18000</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="56" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110" ss:Span="1"/>
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110" ss:Span="2"/>
+   <Row>
+    <Cell><Data ss:Type="String">book_id</Data></Cell>
+    <Cell><Data ss:Type="String">price_IDR</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">book_name</Data></Cell>
+    <Cell><Data ss:Type="String">author</Data></Cell>
+    <Cell><Data ss:Type="String">publisher_id</Data></Cell>
+    <Cell><Data ss:Type="String">publication_date</Data></Cell>
+    <Cell><Data ss:Type="String">ISBN</Data></Cell>
+    <Cell><Data ss:Type="String">edition</Data></Cell>
+    <Cell><Data ss:Type="String">number_of_pages</Data></Cell>
+    <Cell><Data ss:Type="String">price_IDR</Data></Cell>
+    <Cell><Data ss:Type="String">genre_id</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">atomic_habit</Data></Cell>
+    <Cell><Data ss:Type="String">james_clear</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">international</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">the_subtle_art_of not_gaf</Data></Cell>
+    <Cell><Data ss:Type="String">mark_manson</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">local</Data></Cell>
+    <Cell><Data ss:Type="Number">237</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">the_thing_you_can_see_only_when_you_slow_down</Data></Cell>
+    <Cell><Data ss:Type="String">haemin_sunim</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">2018-02-08</Data></Cell>
+    <Cell><Data ss:Type="String">978-0-241-34066-0</Data></Cell>
+    <Cell><Data ss:Type="String">2018 edition</Data></Cell>
+    <Cell><Data ss:Type="Number">265</Data></Cell>
+    <Cell><Data ss:Type="Number">190</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">the_psychology_of_money</Data></Cell>
+    <Cell><Data ss:Type="String">morgan_housel</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">978-602-6486-57-8</Data></Cell>
+    <Cell><Data ss:Type="String">terjemahan</Data></Cell>
+    <Cell><Data ss:Type="Number">256</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">225</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">sapiens</Data></Cell>
+    <Cell><Data ss:Type="String">yuval_noah_harrari</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">978-009-9590-08-8</Data></Cell>
+    <Cell><Data ss:Type="String">import</Data></Cell>
+    <Cell><Data ss:Type="Number">464</Data></Cell>
+    <Cell><Data ss:Type="Number">225</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">norwegian_wood</Data></Cell>
+    <Cell><Data ss:Type="String">haruki_murakami</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">2011-04-28</Data></Cell>
+    <Cell><Data ss:Type="String">978-030-7744-66-1</Data></Cell>
+    <Cell><Data ss:Type="String">statement_international</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">320</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">The Visual MBA : A Quick Guide to Everything Youll Learn in Two Years of Business School</Data></Cell>
+    <Cell><Data ss:Type="String">Jason Barron</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">2019-05-02</Data></Cell>
+    <Cell><Data ss:Type="String">978-024-1386-68-2</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell><Data ss:Type="Number">320</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">1984</Data></Cell>
+    <Cell><Data ss:Type="String">George Orwell</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">978-045-1524-93-5</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Rich Dad Poor Dad</Data></Cell>
+    <Cell><Data ss:Type="String">Kiyosaki_Robert T</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">978-161-2680-19-4</Data></Cell>
+    <Cell><Data ss:Type="String">Mass Market Paperbound</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">315</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Thinking, Fast and Slow</Data></Cell>
+    <Cell><Data ss:Type="String">Kahneman_Daniel</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">978-037-4533-55-7</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">499</Data></Cell>
+    <Cell><Data ss:Type="Number">315</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">232</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">101 Essays That Will Change The Way You Think</Data></Cell>
+    <Cell><Data ss:Type="String">Brianna Wiest</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">imported</Data></Cell>
+    <Cell><Data ss:Type="Number">472</Data></Cell>
+    <Cell><Data ss:Type="Number">232</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">126</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Tuesdays with Morrie</Data></Cell>
+    <Cell><Data ss:Type="String">Albom Mitch </Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">1998-12-29</Data></Cell>
+    <Cell><Data ss:Type="String">978-038-5496-49-0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell><Data ss:Type="Number">126</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">204</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">It Ends with Us</Data></Cell>
+    <Cell><Data ss:Type="String">Hoover</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">2016-08-02</Data></Cell>
+    <Cell><Data ss:Type="String">978-147-1156-26-7</Data></Cell>
+    <Cell><Data ss:Type="String">Statement Paperback Original</Data></Cell>
+    <Cell><Data ss:Type="Number">384</Data></Cell>
+    <Cell><Data ss:Type="Number">204</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">How to Win Friends &amp; Influence People</Data></Cell>
+    <Cell><Data ss:Type="String">Carnegie_Dale</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">978-143-9199-19-0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">the_thing_you_can_see_only_when_you_slow_down</Data></Cell>
+    <Cell><Data ss:Type="String">haemin_sunim</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2017-02-07</Data></Cell>
+    <Cell><Data ss:Type="String">978-014-3130-77-2</Data></Cell>
+    <Cell><Data ss:Type="String">Hardcover edition</Data></Cell>
+    <Cell><Data ss:Type="Number">288</Data></Cell>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Love for Imperfect Things: How to Accept Yourself in a World Striving for Perfection</Data></Cell>
+    <Cell><Data ss:Type="String">haemin_sunim</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2018-12-24</Data></Cell>
+    <Cell><Data ss:Type="String">978-014-3132-28-8</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">The Alchemist 25th Anniversary: A Fable About Following Your Dream</Data></Cell>
+    <Cell><Data ss:Type="String">Paulo Coelho</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">2014-04-15</Data></Cell>
+    <Cell><Data ss:Type="String">9780062355300</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">198</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">The Song of Achilles</Data></Cell>
+    <Cell><Data ss:Type="String">Miller Madeline</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">2017-09-21</Data></Cell>
+    <Cell><Data ss:Type="String">9781408891384</Data></Cell>
+    <Cell><Data ss:Type="String">Bloomsbury Modern Classics Binding</Data></Cell>
+    <Cell><Data ss:Type="Number">368</Data></Cell>
+    <Cell><Data ss:Type="Number">198</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Dune</Data></Cell>
+    <Cell><Data ss:Type="String">Frank Herbert</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2011-07-15</Data></Cell>
+    <Cell><Data ss:Type="String">9780441172719</Data></Cell>
+    <Cell><Data ss:Type="String">Statement Premium</Data></Cell>
+    <Cell><Data ss:Type="Number">896</Data></Cell>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">The Art of Thinking Clearly</Data></Cell>
+    <Cell><Data ss:Type="String">Rolf Dobelli</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">2014-05-06</Data></Cell>
+    <Cell><Data ss:Type="String">9780062343963</Data></Cell>
+    <Cell><Data ss:Type="String">International Edition</Data></Cell>
+    <Cell><Data ss:Type="Number">384</Data></Cell>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Midnight Library</Data></Cell>
+    <Cell><Data ss:Type="String">Matt_Haig</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2020-09-29</Data></Cell>
+    <Cell><Data ss:Type="String">9780525559474</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">304</Data></Cell>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">A Little Life</Data></Cell>
+    <Cell><Data ss:Type="String">Yanagihara_Hanya</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">2016-01-26</Data></Cell>
+    <Cell><Data ss:Type="String">9780804172707</Data></Cell>
+    <Cell><Data ss:Type="String">Paperback</Data></Cell>
+    <Cell><Data ss:Type="Number">832</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="Number">172</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">A Little Life : Shortlisted for the Man Booker Prize 2015 Binding</Data></Cell>
+    <Cell><Data ss:Type="String">Yanagihara_Hanya</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">9781447294832</Data></Cell>
+    <Cell><Data ss:Type="String">pan_pacmillan</Data></Cell>
+    <Cell><Data ss:Type="Number">736</Data></Cell>
+    <Cell><Data ss:Type="Number">172</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">They Both Die at the End</Data></Cell>
+    <Cell><Data ss:Type="String">Silvera_Adam</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">2018-12-18</Data></Cell>
+    <Cell><Data ss:Type="String">9780062457806</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+    <Cell><Data ss:Type="Number">210</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">he Courage To Be Disliked</Data></Cell>
+    <Cell><Data ss:Type="String">Ichiro Kishimi_Fumitake Koga Share</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2019-07-23</Data></Cell>
+    <Cell><Data ss:Type="String">9781760630737</Data></Cell>
+    <Cell><Data ss:Type="String">Statement Main</Data></Cell>
+    <Cell><Data ss:Type="Number">288</Data></Cell>
+    <Cell><Data ss:Type="Number">221</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Midnight Library</Data></Cell>
+    <Cell><Data ss:Type="String">Matt_Haig</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2021-02-18</Data></Cell>
+    <Cell><Data ss:Type="String">9781786892737</Data></Cell>
+    <Cell><Data ss:Type="String">Statement Main</Data></Cell>
+    <Cell><Data ss:Type="Number">304</Data></Cell>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="Number">224</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Before the Coffee Gets Cold</Data></Cell>
+    <Cell><Data ss:Type="String">Toshikazu_Kawaguchi</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">2019-09-19</Data></Cell>
+    <Cell><Data ss:Type="String">9781529029581</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">224</Data></Cell>
+    <Cell><Data ss:Type="Number">224</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">318</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">The Intelligent Investor : The Definitive Book on Value Investing</Data></Cell>
+    <Cell><Data ss:Type="String">Benjamin Graham</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">2003-10-23</Data></Cell>
+    <Cell><Data ss:Type="String">9780060555665</Data></Cell>
+    <Cell><Data ss:Type="String">Annotated</Data></Cell>
+    <Cell><Data ss:Type="Number">640</Data></Cell>
+    <Cell><Data ss:Type="Number">318</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">The Lean Startup</Data></Cell>
+    <Cell><Data ss:Type="String">Eric Ries</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">9781524762407</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">214</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">12 Rules for Life : An Antidote to Chaos</Data></Cell>
+    <Cell><Data ss:Type="String">Jordan B. Peterson</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2019-04-30</Data></Cell>
+    <Cell><Data ss:Type="String">9780735278516</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">528</Data></Cell>
+    <Cell><Data ss:Type="Number">214</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="Number">159</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">People We Meet on Vacation</Data></Cell>
+    <Cell><Data ss:Type="String">Emily_Henry</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">2021-05-11</Data></Cell>
+    <Cell><Data ss:Type="String">9781984806758</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">384</Data></Cell>
+    <Cell><Data ss:Type="Number">159</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="Number">175</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Educated</Data></Cell>
+    <Cell><Data ss:Type="String">Tara Westover</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2018-10-30</Data></Cell>
+    <Cell><Data ss:Type="String">9781984854858</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">175</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Never Split the Difference : Negotiating as If Your Life Depended on It</Data></Cell>
+    <Cell><Data ss:Type="String">Chris Voss, Tahl Raz</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2018-06-05</Data></Cell>
+    <Cell><Data ss:Type="String">9780062872302</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">304</Data></Cell>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Range</Data></Cell>
+    <Cell><Data ss:Type="String">David Epstein</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">9781509843527</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">257</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Ikigai</Data></Cell>
+    <Cell><Data ss:Type="String">Héctor García and Francesc Miralles</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">2017-09-27</Data></Cell>
+    <Cell><Data ss:Type="String">978-602-1201-80-0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell><Data ss:Type="Number">257</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Harry Potter and the Philosophers Stone</Data></Cell>
+    <Cell><Data ss:Type="String">JK.Rowling</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">2014-09-01</Data></Cell>
+    <Cell><Data ss:Type="String">9781408855652</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">352</Data></Cell>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">When Breath Becomes Air</Data></Cell>
+    <Cell><Data ss:Type="String">Paul_Kalanithi</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">2018-12-31</Data></Cell>
+    <Cell><Data ss:Type="String">9781984801821</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">256</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">To Kill a Mockingbird</Data></Cell>
+    <Cell><Data ss:Type="String">Harper_Lee</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">9780446310789</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Chainsaw Man 3</Data></Cell>
+    <Cell><Data ss:Type="String">Tatsuki_Fujimoto</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">9781974709953</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Book You Wish Your Parents Had Read</Data></Cell>
+    <Cell><Data ss:Type="String">Philippa_Perry</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2021-01-01</Data></Cell>
+    <Cell><Data ss:Type="String">978-024-1251-02-7</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">272</Data></Cell>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="Number">143</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">How to Win Friends and Influence People</Data></Cell>
+    <Cell><Data ss:Type="String">Dale_Carnegie</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">2004-10-01</Data></Cell>
+    <Cell><Data ss:Type="String">9780091906351</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">204</Data></Cell>
+    <Cell><Data ss:Type="Number">143</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="Number">432</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Secrets of Divine Love</Data></Cell>
+    <Cell><Data ss:Type="String">A_Helwa</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">2020-03-20</Data></Cell>
+    <Cell><Data ss:Type="String">9781734231205</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">386</Data></Cell>
+    <Cell><Data ss:Type="Number">432</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Chainsaw Man 6</Data></Cell>
+    <Cell><Data ss:Type="String">Tatsuki_Fujimoto</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">9781974720712</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">265</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Building A Story Brand</Data></Cell>
+    <Cell><Data ss:Type="String">Miller, Donald</Data></Cell>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">2017-11-16</Data></Cell>
+    <Cell><Data ss:Type="String">9781400201839</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell><Data ss:Type="Number">265</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="Number">216</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Mindset_Changing The Way You think To Fulfil Your Potential</Data></Cell>
+    <Cell><Data ss:Type="String">DR Carol S. Dwek</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">2017-04-11</Data></Cell>
+    <Cell><Data ss:Type="String">9781472139955</Data></Cell>
+    <Cell><Data ss:Type="String">Updated_edition</Data></Cell>
+    <Cell><Data ss:Type="Number">320</Data></Cell>
+    <Cell><Data ss:Type="Number">216</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Circle</Data></Cell>
+    <Cell><Data ss:Type="String">unknown_writer</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2019-04-10</Data></Cell>
+    <Cell><Data ss:Type="String">9781526610140</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">193</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Normal People</Data></Cell>
+    <Cell><Data ss:Type="String">Sally_Rooney</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">2019-05-02</Data></Cell>
+    <Cell><Data ss:Type="String">9780571334650</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">288</Data></Cell>
+    <Cell><Data ss:Type="Number">193</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Chainsaw Man, Vol. 8</Data></Cell>
+    <Cell><Data ss:Type="String">Tatsuki_Fujimoto</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2022-02-03</Data></Cell>
+    <Cell><Data ss:Type="String">9781974722785</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Chainsaw Man, Vol. 9</Data></Cell>
+    <Cell><Data ss:Type="String">Tatsuki_Fujimoto</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2022-03-03</Data></Cell>
+    <Cell><Data ss:Type="String">9781974724048</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Chainsaw Man 4</Data></Cell>
+    <Cell><Data ss:Type="String">Tatsuki_Fujimoto</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2022-05-13</Data></Cell>
+    <Cell><Data ss:Type="String">9781974717279</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="Number">248</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">The Making of a Manager : What to Do When Everyone Loo</Data></Cell>
+    <Cell><Data ss:Type="String">Zhuo, Julie</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">2019-03-19</Data></Cell>
+    <Cell><Data ss:Type="String">9780525540427</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">248</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">282</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">How To Be A Stoic</Data></Cell>
+    <Cell><Data ss:Type="String">Pigliucci, Massimo</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">2017-05-04</Data></Cell>
+    <Cell><Data ss:Type="String">9781846045073</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">288</Data></Cell>
+    <Cell><Data ss:Type="Number">282</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Chainsaw Man 2</Data></Cell>
+    <Cell><Data ss:Type="String">Tatsuki_Fujimoto</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2020-12-24</Data></Cell>
+    <Cell><Data ss:Type="String">9781974709946</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">192</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Chainsaw Man 7</Data></Cell>
+    <Cell><Data ss:Type="String">Tatsuki_Fujimoto</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">2021-12-09</Data></Cell>
+    <Cell><Data ss:Type="String">9781974720965</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">158</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">RADICAL CANDOR</Data></Cell>
+    <Cell><Data ss:Type="String">SCOTT, KIM</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">2019-09-01</Data></Cell>
+    <Cell><Data ss:Type="String">9781250258403</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Zoom>130</Zoom>
+   <Selected/>
+   <TopRowVisible>9</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
