@@ -1,4 +1,4 @@
-# MySql
+# Bookstore_Analysis/MySql
 Bookstore Analysis using MySql Workbench
 
 The purpose of this exercise is to learn more about DDL and DML with MySql Workbench
